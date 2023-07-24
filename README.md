@@ -7,7 +7,7 @@
 - Webpack
 
 ## Deployed:
-[Watch here](https://nda17.github.io/IP-Adress-tracker/)
+[Watch here](https://nda17.github.io/IP-Adress-tracker-app/)
 
 ## Project setup:
 ```

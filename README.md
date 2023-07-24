@@ -1,4 +1,4 @@
-# «IP-Adress-tracker»
+# «IP-Adress tracker App»
 
 ## Used:
 - JavaScript

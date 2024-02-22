@@ -15,25 +15,35 @@
 
 ## Project setup:
 ```
+yarn
+- or
 npm install 
 ```
 
 ## Starting the development server:
 ```
+yarn run start
+- or
 npm run start
 ```
 
 ## Building a project without optimization:
 ```
+yarn run build-dev
+- or
 npm run build-dev
 ```
 
 ## Building a project with optimization:
 ```
+yarn run build-prod
+- or
 npm run build-prod
 ```
 
 ## Cleaning up the dist folder:
 ```
+yarn run clear
+- or
 npm run clear
 ```
